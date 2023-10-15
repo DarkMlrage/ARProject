@@ -11,9 +11,11 @@
             "id": "ead8a6602b176897",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Use Case Diagramm.png"
+                "file": "Obsidian Vault/Пастернак/USE Case.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Use Case Diagramm.png",
+                "file": "Obsidian Vault/Пастернак/USE Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Use Case Diagramm.png",
+                "file": "Obsidian Vault/Пастернак/USE Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Use Case Diagramm.png"
+                "file": "Obsidian Vault/Пастернак/USE Case.md"
               }
             }
           }
@@ -136,18 +138,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Відкрити провідник файлів": false,
-      "graph:Граф": false,
-      "canvas:Створити нове полотно": false,
-      "daily-notes:Сьогоднішня нотатка": false,
-      "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "751294952989280e",
   "lastOpenFiles": [
-    "Obsidian Vault/Пастернак/USE Case.md",
     "Use Case Diagramm.png",
+    "Obsidian Vault/Гатеж",
+    "Obsidian Vault/Untitled.md",
+    "Obsidian Vault/Пастернак/USE Case.md",
+    "Obsidian Vault/Кошкін",
+    "Obsidian Vault/Дяк",
+    "Obsidian Vault/Бак",
     "Obsidian Vault/Пастернак"
   ]
 }
