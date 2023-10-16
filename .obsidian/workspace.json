@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "79f113a174568b89",
+    "id": "47593a4058c118e5",
     "type": "split",
     "children": [
       {
-        "id": "63e572c0b69da495",
+        "id": "1db704a3e25c25bc",
         "type": "tabs",
         "children": [
           {
-            "id": "ead8a6602b176897",
+            "id": "cd3193d5a15f64ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Пастернак/USE Case.md",
+                "file": "Obsidian Vault/Дяк/SWOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1e43407c8e26e30f",
+    "id": "464a53d5649b1305",
     "type": "split",
     "children": [
       {
-        "id": "bfef857aa1a4f05b",
+        "id": "5e00560c9f51dda4",
         "type": "tabs",
         "children": [
           {
-            "id": "751294952989280e",
+            "id": "a6fe5532b265ea08",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "0b2b89105081fc7d",
+            "id": "4f7a02241e664e75",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "977a62c8be64b5ad",
+            "id": "5356ceb62a662699",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "6e806a2a90134847",
+    "id": "e2fef13572b3d0d7",
     "type": "split",
     "children": [
       {
-        "id": "619b84daab66941b",
+        "id": "f66976e109560e8b",
         "type": "tabs",
         "children": [
           {
-            "id": "8be22802421448b0",
+            "id": "54070f24595d45ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Пастернак/USE Case.md",
+                "file": "Obsidian Vault/Дяк/SWOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "880c2761a9986393",
+            "id": "36b3d798982c373a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Пастернак/USE Case.md",
+                "file": "Obsidian Vault/Дяк/SWOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f7f3634b64ea34cf",
+            "id": "2de884ae24e51eaf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "417315421e68f5ef",
+            "id": "712ada0be9d0fe54",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Пастернак/USE Case.md"
+                "file": "Obsidian Vault/Дяк/SWOT.md"
               }
             }
           }
@@ -146,18 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "751294952989280e",
+  "active": "cd3193d5a15f64ea",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Use Case Diagramm.png",
-=======
->>>>>>> Stashed changes
-    "Obsidian Vault/Гатеж",
-    "Obsidian Vault/Untitled.md",
-    "Obsidian Vault/Пастернак/USE Case.md",
-    "Obsidian Vault/Кошкін",
-    "Obsidian Vault/Дяк",
-    "Obsidian Vault/Бак",
-    "Obsidian Vault/Пастернак"
+    "Obsidian Vault/Дяк/SWOT.md",
+    "Obsidian Vault/Бак/Pasted",
+    "Obsidian Vault/Гатеж/Pasted",
+    "Obsidian Vault/Дяк/Pasted",
+    "Obsidian Vault/Кошкін/Pasted",
+    "Obsidian Vault/Пастернак/Pasted"
   ]
 }
