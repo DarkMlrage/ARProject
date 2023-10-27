@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63e572c0b69da495",
+        "id": "23c8839fc657e1d5",
         "type": "tabs",
         "children": [
           {
-            "id": "ead8a6602b176897",
+            "id": "193a90c53c7cf80c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,16 +146,16 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "ead8a6602b176897",
+  "active": "193a90c53c7cf80c",
   "lastOpenFiles": [
+    "Obsidian Vault/Дяк/Market Analysis.md",
+    "Obsidian Vault/Дяк/Risk Assessment.md",
+    "Obsidian Vault/Дяк/SWOT.md",
+    "Obsidian Vault/Пастернак/Вимоги до системи.md",
     "Obsidian Vault/Пастернак/Pasted/Use Case Diagramm.png",
     "Obsidian Vault/Пастернак/Pasted",
-    "Obsidian Vault/Дяк/SWOT.md",
-    "Obsidian Vault/Дяк/Risk Assessment.md",
-    "Obsidian Vault/Дяк/Market Analysis.md",
     "Obsidian Vault/Дяк",
     "Obsidian Vault/Пастернак/USE Case.md",
-    "Obsidian Vault/Пастернак/Вимоги до системи.md",
     "Use Case Diagramm.png",
     "Obsidian Vault/Пастернак"
   ]
