@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1db704a3e25c25bc",
+        "id": "a8b66a44abdcfed5",
         "type": "tabs",
         "children": [
           {
-            "id": "cd3193d5a15f64ea",
+            "id": "ce8fa62deaca515f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/Дяк/SWOT.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Дяк/SWOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Дяк/SWOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +119,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Дяк/SWOT.md"
+                "file": "Obsidian Vault/Бак/Project Charter.md"
               }
             }
+          },
+          {
+            "id": "d2c5c174808e1f53",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,11 +145,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "cd3193d5a15f64ea",
+  "active": "a6fe5532b265ea08",
   "lastOpenFiles": [
+    "Obsidian Vault/Бак/Project Charter.md",
+    "Obsidian Vault/Пастернак/USE Case.md",
+    "Obsidian Vault/Дяк/Market Analysis.md",
+    "Obsidian Vault/Дяк/Risk Assessment.md",
     "Obsidian Vault/Дяк/SWOT.md",
     "Obsidian Vault/Бак/Pasted",
     "Obsidian Vault/Гатеж/Pasted",
