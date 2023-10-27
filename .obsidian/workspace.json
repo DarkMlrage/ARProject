@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce8fa62deaca515f",
+            "id": "553bd635cd7024b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e2fef13572b3d0d7",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Vault/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Vault/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Бак/Project Charter.md"
+                "file": "Obsidian Vault/Untitled.md"
               }
             }
           },
@@ -136,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,13 +156,16 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a6fe5532b265ea08",
+  "active": "553bd635cd7024b1",
   "lastOpenFiles": [
-    "Obsidian Vault/Бак/Project Charter.md",
+    "Obsidian Vault/test.md",
     "Obsidian Vault/Пастернак/USE Case.md",
-    "Obsidian Vault/Дяк/Market Analysis.md",
-    "Obsidian Vault/Дяк/Risk Assessment.md",
     "Obsidian Vault/Дяк/SWOT.md",
+    "Obsidian Vault/Дяк/Risk Assessment.md",
+    "Obsidian Vault/Дяк/Market Analysis.md",
+    "Obsidian Vault/Untitled.md",
+    "Obsidian Vault/Вимоги до системи.md",
+    "Obsidian Vault/Бак/Project Charter.md",
     "Obsidian Vault/Бак/Pasted",
     "Obsidian Vault/Гатеж/Pasted",
     "Obsidian Vault/Дяк/Pasted",
