@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "79f113a174568b89",
+    "id": "47593a4058c118e5",
     "type": "split",
     "children": [
       {
-        "id": "23c8839fc657e1d5",
+        "id": "ec415019d304f0c8",
         "type": "tabs",
         "children": [
           {
-            "id": "193a90c53c7cf80c",
+            "id": "d4c6a4f0ff0e9734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md",
+                "file": "Obsidian Vault/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1e43407c8e26e30f",
+    "id": "464a53d5649b1305",
     "type": "split",
     "children": [
       {
-        "id": "bfef857aa1a4f05b",
+        "id": "5e00560c9f51dda4",
         "type": "tabs",
         "children": [
           {
-            "id": "751294952989280e",
+            "id": "a6fe5532b265ea08",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "0b2b89105081fc7d",
+            "id": "4f7a02241e664e75",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "977a62c8be64b5ad",
+            "id": "5356ceb62a662699",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "6e806a2a90134847",
+    "id": "e2fef13572b3d0d7",
     "type": "split",
     "children": [
       {
-        "id": "619b84daab66941b",
+        "id": "f66976e109560e8b",
         "type": "tabs",
         "children": [
           {
-            "id": "8be22802421448b0",
+            "id": "54070f24595d45ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md",
+                "file": "Obsidian Vault/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "880c2761a9986393",
+            "id": "36b3d798982c373a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md",
+                "file": "Obsidian Vault/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f7f3634b64ea34cf",
+            "id": "2de884ae24e51eaf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,45 +120,58 @@
             }
           },
           {
-            "id": "417315421e68f5ef",
+            "id": "712ada0be9d0fe54",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md"
+                "file": "Obsidian Vault/Untitled.md"
               }
             }
+          },
+          {
+            "id": "d2c5c174808e1f53",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Відкрити провідник файлів": false,
-      "graph:Граф": false,
-      "canvas:Створити нове полотно": false,
-      "daily-notes:Сьогоднішня нотатка": false,
-      "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "193a90c53c7cf80c",
+  "active": "d4c6a4f0ff0e9734",
   "lastOpenFiles": [
-    "Obsidian Vault/test.md",
-    "Obsidian Vault/Untitled.md",
-    "Obsidian Vault/Дяк/Market Analysis.md",
-    "Obsidian Vault/Дяк/Risk Assessment.md",
-    "Obsidian Vault/Дяк/SWOT.md",
     "Obsidian Vault/Пастернак/Вимоги до системи.md",
-    "Obsidian Vault/Пастернак/Pasted/Use Case Diagramm.png",
-    "Obsidian Vault/Пастернак/Pasted",
-    "Obsidian Vault/Дяк",
+    "Obsidian Vault/Бак/Статут проекту.md",
+    "Obsidian Vault/Дяк/SWOT-analysis.md",
+    "RackMultipart20231028-1-hb880e_html_cb55ddb5edd60516.gif.md",
+    "Obsidian Vault/Untitled.md",
     "Obsidian Vault/Пастернак/USE Case.md",
-    "Use Case Diagramm.png",
-    "Obsidian Vault/Пастернак"
+    "Obsidian Vault/test.md",
+    "Obsidian Vault/Дяк/Risk Assessment.md",
+    "Obsidian Vault/Дяк/Market Analysis.md",
+    "Obsidian Vault/Вимоги до системи.md",
+    "Obsidian Vault/Бак/Project Charter.md",
+    "Obsidian Vault/Бак/Pasted",
+    "Obsidian Vault/Гатеж/Pasted",
+    "Obsidian Vault/Дяк/Pasted",
+    "Obsidian Vault/Кошкін/Pasted",
+    "Obsidian Vault/Пастернак/Pasted"
   ]
 }
