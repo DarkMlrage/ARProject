@@ -11,11 +11,9 @@
             "id": "725f9a5c94b83f90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Пастернак/Pasted/Class Diagram.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md",
+                "file": "Obsidian Vault/Пастернак/Pasted/Class Diagram.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md",
+                "file": "Obsidian Vault/Пастернак/Pasted/Class Diagram.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md"
+                "file": "Obsidian Vault/Пастернак/Pasted/Class Diagram.png"
               }
             }
           },
@@ -156,18 +154,21 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "725f9a5c94b83f90",
+  "active": "a6fe5532b265ea08",
   "lastOpenFiles": [
+    "Obsidian Vault/Пастернак/Pasted/Use Case Diagramm.png",
+    "Obsidian Vault/Пастернак/Pasted/Class Diagram.png",
+    "Obsidian Vault/Пастернак/Class Diagram.md",
+    "Obsidian Vault/test.md",
+    "Obsidian Vault/Пастернак/USE Case.md",
+    "Obsidian Vault/Пастернак/Вимоги до системи.md",
     "Obsidian Vault/Бак/Статут проекту.md",
     "Obsidian Vault/Дяк/Market Analysis.md",
     "Obsidian Vault/Дяк/SWOT-analysis.md",
     "Obsidian Vault/Дяк/Assessment of Prospects.md",
     "Obsidian Vault/Дяк/Risk Assessment.md",
-    "Obsidian Vault/Пастернак/Вимоги до системи.md",
     "Obsidian Vault/Untitled.md",
     "RackMultipart20231028-1-hb880e_html_cb55ddb5edd60516.gif.md",
-    "Obsidian Vault/Пастернак/USE Case.md",
-    "Obsidian Vault/test.md",
     "Obsidian Vault/Вимоги до системи.md",
     "Obsidian Vault/Бак/Project Charter.md",
     "Obsidian Vault/Бак/Pasted",
