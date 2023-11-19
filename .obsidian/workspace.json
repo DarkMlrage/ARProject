@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4531be6c06d42b08",
+        "id": "aadbc834494c2710",
         "type": "tabs",
         "children": [
           {
-            "id": "725f9a5c94b83f90",
+            "id": "154d4cd4c65e6101",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Pasted/Class Diagram.png"
+                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Pasted/Class Diagram.png",
+                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Pasted/Class Diagram.png",
+                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Пастернак/Pasted/Class Diagram.png"
+                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md"
               }
             }
           },
@@ -154,14 +156,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a6fe5532b265ea08",
+  "active": "154d4cd4c65e6101",
   "lastOpenFiles": [
-    "Obsidian Vault/Пастернак/Pasted/Use Case Diagramm.png",
+    "Obsidian Vault/Пастернак/Pasted/Logic data model 3.png",
+    "Obsidian Vault/Пастернак/Вимоги до системи.md",
     "Obsidian Vault/Пастернак/Pasted/Class Diagram.png",
+    "Obsidian Vault/Пастернак/Pasted/Use Case Diagramm.png",
     "Obsidian Vault/Пастернак/Class Diagram.md",
     "Obsidian Vault/test.md",
     "Obsidian Vault/Пастернак/USE Case.md",
-    "Obsidian Vault/Пастернак/Вимоги до системи.md",
     "Obsidian Vault/Бак/Статут проекту.md",
     "Obsidian Vault/Дяк/Market Analysis.md",
     "Obsidian Vault/Дяк/SWOT-analysis.md",
