@@ -138,16 +138,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Відкрити провідник файлів": false,
-      "graph:Граф": false,
-      "canvas:Створити нове полотно": false,
-      "daily-notes:Сьогоднішня нотатка": false,
-      "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "66e14419d3f08e9c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Пастернак/Class Diagram.md",
+    "Пастернак/Вимоги до системи.md",
+    "Пастернак/Pasted/Use Case Diagramm.png",
+    "Пастернак/Pasted/Logic data model 3.png",
+    "Пастернак/Pasted/Class Diagram.png",
+    "Пастернак/USE Case.md",
     "Бак/Init.md",
     "Кошкін",
     "Пастернак",
