@@ -1,25 +1,24 @@
 ```
 @startuml
+!theme mars
 
-skin rose
+title Use Case Diagram
 
-title Use Case Діаграма
-
-RECTANGLE Система {
-    (Пошук дод. інформації) as Search 
-    (Обробка об`єктів) as ObjProcessing
-    (Оновлення системи) as Update
-    (Виправлення помилок) as Debug
-    (Завантаження інтерактиву) as UploadContent 
-    (Розв`язок задач) as Solver
-    (Обробка формул) as Formulas
-    (Обробка тексту) as Text
-    (Пояснення текст. інформації) as Explanation
-    (Копіювання тексту) as  Copying
-    (Рішення формул) as SolveFormula
-    (Пояснення до формул) as ExplFormula
-    (Оновлення бази знань) as DbUpdate
-    (Проходження інтеркт. задач) as PassingTest
+RECTANGLE System {
+    (Search for additional information) as Search 
+    (Object processing) as ObjProcessing
+    (System update) as Update
+    (Debugging) as Debug
+    (Interactive content upload) as UploadContent 
+    (Problem solving) as Solver
+    (Formula processing) as Formulas
+    (Text processing) as Text
+    (Explanations of text information) as Explanation
+    (Copying text) as Copying
+    (Formula solving) as SolveFormula
+    (Explanation of formulas) as ExplFormula
+    (Knowledge base update) as DbUpdate
+    (Interactive test completion) as PassingTest
 }
 
 :Developer:
@@ -42,4 +41,6 @@ Formulas ...> SolveFormula : include
 Formulas ...> ExplFormula : include
 Search <.down. ObjProcessing : extend 
 UploadContent .down..> PassingTest : include
+@enduml
+
 ```

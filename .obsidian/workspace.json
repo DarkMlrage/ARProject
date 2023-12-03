@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aadbc834494c2710",
+        "id": "0cd144d7b652ecce",
         "type": "tabs",
         "children": [
           {
-            "id": "154d4cd4c65e6101",
+            "id": "e8cecf9f765e6f40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/Бак/Статут проекту.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a5f0870025ac6f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/Пастернак/Вимоги до системи.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Бак/Статут проекту.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Бак/Статут проекту.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian Vault/Бак/Статут проекту.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,20 +148,28 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "154d4cd4c65e6101",
+  "active": "e8cecf9f765e6f40",
   "lastOpenFiles": [
-    "Obsidian Vault/Пастернак/Вимоги до системи.md",
+    "Obsidian Vault/Бак/List of Goals.md",
     "Obsidian Vault/Бак/Статут проекту.md",
-    "Obsidian Vault/Дяк/Assessment of Prospects.md",
-    "Obsidian Vault/Дяк/Market Analysis.md",
-    "Obsidian Vault/Дяк/Risk Assessment.md",
+    "Obsidian Vault/Бак/List of Events.md",
+    "Obsidian Vault/Бак/List of locations.md",
+    "Obsidian Vault/Бак/List of Processes.md",
+    "Obsidian Vault/Бак/List of things.md",
+    "Obsidian Vault/Пастернак/Вимоги до системи.md",
+    "Obsidian Vault/Пастернак/Use case Специфікація.md",
     "Obsidian Vault/Дяк/SWOT-analysis.md",
-    "Obsidian Vault/Untitled.md",
+    "Obsidian Vault/Пастернак/Pasted/Use Case Specific.xlsx",
+    "Obsidian Vault/Пастернак/Pasted/Use Case.png",
     "Obsidian Vault/Пастернак/USE Case.md",
     "Obsidian Vault/Пастернак/Class Diagram.md",
+    "Obsidian Vault/Дяк/Risk Assessment.md",
+    "Obsidian Vault/Дяк/Market Analysis.md",
+    "Obsidian Vault/Дяк/Assessment of Prospects.md",
     "Obsidian Vault/Пастернак/Pasted/Use Case Diagramm.png",
     "Obsidian Vault/Пастернак/Pasted/Logic data model 3.png",
     "Obsidian Vault/Пастернак/Pasted/Class Diagram.png",
+    "Obsidian Vault/Untitled.md",
     "Obsidian Vault/test.md",
     "RackMultipart20231028-1-hb880e_html_cb55ddb5edd60516.gif.md",
     "Obsidian Vault/Вимоги до системи.md",
