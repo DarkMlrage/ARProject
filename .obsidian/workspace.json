@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0cd144d7b652ecce",
+        "id": "ec294badb0e2cf5f",
         "type": "tabs",
         "children": [
           {
-            "id": "e8cecf9f765e6f40",
+            "id": "dfe2605b670b2877",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/Бак/List of Goals.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Vault/Бак/List of Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Vault/Бак/List of Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian Vault/Бак/List of Goals.md"
+              }
             }
           },
           {
@@ -148,14 +156,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e8cecf9f765e6f40",
+  "active": "dfe2605b670b2877",
   "lastOpenFiles": [
-    "Obsidian Vault/Бак/List of Goals.md",
+    "Obsidian Vault/Бак/Knowledge Def.md",
+    "Obsidian Vault/Бак/Timing Def Descript.md",
+    "Obsidian Vault/Бак/Data Def Descript.md",
     "Obsidian Vault/Бак/Статут проекту.md",
     "Obsidian Vault/Бак/List of Events.md",
-    "Obsidian Vault/Бак/List of locations.md",
+    "Obsidian Vault/Бак/Program.md",
+    "Obsidian Vault/Бак/Pasted/Progra.md",
     "Obsidian Vault/Бак/List of Processes.md",
-    "Obsidian Vault/Бак/List of things.md",
+    "Obsidian Vault/Бак/List of Data.md",
+    "Obsidian Vault/Бак/List of Goals.md",
+    "Obsidian Vault/Бак/List of locations.md",
     "Obsidian Vault/Пастернак/Вимоги до системи.md",
     "Obsidian Vault/Пастернак/Use case Специфікація.md",
     "Obsidian Vault/Дяк/SWOT-analysis.md",
