@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dca21030e635ea8f",
+        "id": "e6530ce4811930ae",
         "type": "tabs",
         "children": [
           {
-            "id": "6a0196d68a273518",
+            "id": "86d6312f9a0a7989",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Бак/Program.md",
+                "file": "Obsidian Vault/Пастернак/Knowledge Definition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Бак/Program.md",
+                "file": "Obsidian Vault/Пастернак/Knowledge Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Бак/Program.md",
+                "file": "Obsidian Vault/Пастернак/Knowledge Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Бак/Program.md"
+                "file": "Obsidian Vault/Пастернак/Knowledge Definition.md"
               }
             }
           }
@@ -147,25 +147,33 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "32102c343816251f",
+  "active": "86d6312f9a0a7989",
   "lastOpenFiles": [
+    "Obsidian Vault/Матриця Захмана/Knowledge Definition/Knowledge_definition.pdf",
+    "Obsidian Vault/Дяк/SWOT-analysis.md",
+    "Obsidian Vault/Пастернак/Knowledge Definition.md",
+    "Obsidian Vault/Бак/Data Def Descript.md",
+    "Obsidian Vault/Бак/Knowledge Def.md",
+    "Obsidian Vault/Бак/Timing Def Descript.md",
+    "Obsidian Vault/Матриця Захмана/Timing Definition/Timing_def_descript.pdf",
+    "Obsidian Vault/Пастернак/Security Architecture.md",
+    "Obsidian Vault/Матриця Захмана/Security Architecture/Security Architecture.pdf",
+    "Obsidian Vault/Пастернак/Network Architecture.md",
+    "Obsidian Vault/Матриця Захмана/Network Architecture/Network_architecture.pdf",
+    "Obsidian Vault/Бак/List of Organizations.md",
+    "Obsidian Vault/Матриця Захмана/List of Organizations/List_of_organizations.pdf",
+    "Obsidian Vault/Пастернак/Pasted/Use Case.png",
+    "Obsidian Vault/Пастернак/Pasted/Class Diagram.png",
+    "Obsidian Vault/Пастернак/USE Case.md",
+    "Obsidian Vault/Бак/Program.md",
     "Obsidian Vault/Матриця Захмана/Security Architecture",
     "Obsidian Vault/Матриця Захмана/Нова папка",
     "Obsidian Vault/Матриця Захмана/Network Architecture",
     "Obsidian Vault/Матриця Захмана/Program/Program.pdf",
-    "Obsidian Vault/Бак/Timing Def Descript.md",
     "Obsidian Vault/Матриця Захмана/Program",
-    "Obsidian Vault/Бак/Program.md",
-    "Obsidian Vault/Бак/Knowledge Def.md",
-    "Obsidian Vault/Бак/Data Def Descript.md",
     "Obsidian Vault/Матриця Захмана/Data Definition Description/Data_def_descript.pdf",
-    "Obsidian Vault/Матриця Захмана/Data Definition Description",
     "Obsidian Vault/Бак/List of Goals.md",
-    "Obsidian Vault/Матриця Захмана/List of Goals/List_of_goals.pdf",
     "Obsidian Vault/Бак/List of Events.md",
-    "Obsidian Vault/Матриця Захмана/List of Goals",
-    "Obsidian Vault/Матриця Захмана/List of Events/List_of_events.pdf",
-    "Obsidian Vault/Матриця Захмана/List of Events",
     "Obsidian Vault/Бак/List of Data.md",
     "Obsidian Vault/Бак/List of Processes.md",
     "Obsidian Vault/Бак/List of locations.md"

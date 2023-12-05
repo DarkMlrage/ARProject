@@ -33,8 +33,8 @@ Student --> Search
 Developer --> Update
 Update ...> Debug : include
 Update ...> DbUpdate : include
-Solver ---> Formulas
-Solver ---> Text
+Solver <... Formulas : extend
+Solver <... Text : extend
 Text ...> Explanation : include
 Text ...> Copying : include
 Formulas ...> SolveFormula : include
