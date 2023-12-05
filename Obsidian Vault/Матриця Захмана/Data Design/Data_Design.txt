@@ -1,0 +1,57 @@
+Table User {
+  User_id integer [primary key]
+  Group_id integer
+}
+
+Table Groups {
+  Group_id integer [primary key]
+
+}
+
+Table Materials {
+  Material_id integer [primary key]
+
+  Creator_id integer
+}
+
+Table Learning_Materials {
+  Learning_material_id integer [primary key]
+  Material_id integer
+}
+
+Table Interective_Materials {
+  Interective_material_id integer [primary key]
+  Material_id integer
+}
+
+Table Tests {
+  Test_id integer [primary key]
+  Material_id integer
+}
+
+Table Questions {
+  Question_id integer [primary key]
+  Test_id integer
+}
+
+Table Tests_Results {
+  Test_result_id integer [primary key]
+  Test_id integer
+  User_id integer
+}
+
+Ref: Groups.Group_id - User.Group_id
+
+Ref: User.User_id - Materials.Creator_id
+
+Ref: Learning_Materials.Material_id - Materials.Material_id
+
+Ref: Interective_Materials.Material_id - Materials.Material_id
+
+Ref: Tests.Material_id - Materials.Material_id
+
+Ref: Questions.Test_id - Tests.Test_id
+
+Ref: Tests_Results.Test_id - Tests.Test_id
+
+Ref: Tests_Results.User_id - User.User_id

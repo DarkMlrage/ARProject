@@ -1,0 +1,36 @@
+@startgantt
+
+'Can be daily, weekly, or monthly
+ganttscale monthly
+
+Project starts 2023-09-24
+
+-- AREG Team --
+[Definition of needs and goals] lasts 60 days
+
+[Definition of needs and goals] ends 2023-11-22
+[Requirements] starts 2023-09-24 and ends 2023-10-16 
+[Bussiness analysis] starts 2023-09-30 and ends 2023-10-25
+[Market analysis] starts 2023-10-26 and ends 2023-11-22
+
+[Developing of system] starts 2023-11-23 and ends 2028-05-05
+
+[OS developing] starts 2023-11-23 and ends 2025-02-23
+
+[Developing of graphical component] starts 2025-02-24 and ends 2025-10-24
+[Design] starts 2025-02-24 and ends 2025-05-24
+[UI/UX] starts 2025-05-25 and ends 2025-08-25
+[GUI] starts 2025-08-26 and ends 2025-10-24
+
+
+
+[Developing of functional component] starts 2025-10-25 and ends 2028-05-05
+[Computer sight] starts 2025-10-25 and ends 2026-11-25
+[Chat system developing] starts 2026-07-20 and ends 2027-02-20
+[Interaction with VR objects] starts 2027-01-15 and ends 2027-10-05
+[Database developing] starts 2027-10-06 and ends 2028-05-05  
+
+[Q&A Assurance] starts 2028-05-06 and ends 2030-05-05
+
+
+@endgantt
